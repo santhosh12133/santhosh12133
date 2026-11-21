@@ -188,6 +188,18 @@ I'm an **MCA graduate (2026)** who builds software that solves concrete problems
 
 <br />
 
+## 🐍 Contribution activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhosh12133/santhosh12133/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhosh12133/santhosh12133/output/github-snake.svg" />
+  <img alt="Contribution graph animated as a snake eating the commits" src="https://raw.githubusercontent.com/santhosh12133/santhosh12133/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<br />
+
 ## 📫 Let's connect
 
 I'm actively looking for **Software Engineering and AI Engineering** roles. If you're building something interesting, I'd like to hear about it.
